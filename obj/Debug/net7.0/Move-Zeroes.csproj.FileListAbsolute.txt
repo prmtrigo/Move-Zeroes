@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Move-Zeroes\bin\Debug\net7.0\Move-Zeroes.exe
+C:\Users\trigo\Programação\C#\Move-Zeroes\bin\Debug\net7.0\Move-Zeroes.deps.json
+C:\Users\trigo\Programação\C#\Move-Zeroes\bin\Debug\net7.0\Move-Zeroes.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Move-Zeroes\bin\Debug\net7.0\Move-Zeroes.dll
+C:\Users\trigo\Programação\C#\Move-Zeroes\bin\Debug\net7.0\Move-Zeroes.pdb
+C:\Users\trigo\Programação\C#\Move-Zeroes\obj\Debug\net7.0\Move-Zeroes.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Move-Zeroes\obj\Debug\net7.0\Move-Zeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Move-Zeroes\obj\Debug\net7.0\Move-Zeroes.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Move-Zeroes\obj\Debug\net7.0\Move-Zeroes.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Move-Zeroes\obj\Debug\net7.0\Move-Zeroes.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Move-Zeroes\obj\Debug\net7.0\Move-Zeroes.dll
+C:\Users\trigo\Programação\C#\Move-Zeroes\obj\Debug\net7.0\refint\Move-Zeroes.dll
+C:\Users\trigo\Programação\C#\Move-Zeroes\obj\Debug\net7.0\Move-Zeroes.pdb
+C:\Users\trigo\Programação\C#\Move-Zeroes\obj\Debug\net7.0\Move-Zeroes.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Move-Zeroes\obj\Debug\net7.0\ref\Move-Zeroes.dll
